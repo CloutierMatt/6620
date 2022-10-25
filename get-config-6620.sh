@@ -32,7 +32,7 @@ if [ $# -eq 1 ]; then
 else
    # V3 Configured address and password
    BASE_URL="http://192.168.0.1/"
-   ADMIN_PASS="RedactedForGithub"
+   ADMIN_PASS="**************"
 fi
 
 # Create directory for temporary files

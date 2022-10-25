@@ -14,7 +14,7 @@
 # ex. gSecureToken : "a665d7bd68c30de9b51e60109edd600b630a084a"
 #
 # shaPassword is sha1sum of: Admin Password concat. w/ Secure Token
-# ex. echo -n "V3passworda665d7bd68c30de9b51e60109edd600b630a084a" | sha1sum
+# ex. echo -n "**********a665d7bd68c30de9b51e60109edd600b630a084a" | sha1sum
 #     1f0085d995e0a73d69c76b792fc67c2b2c4cb803  -
 #     shaPassword=1f0085d995e0a73d69c76b792fc67c2b2c4cb803
 #
